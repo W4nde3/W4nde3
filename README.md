@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+- 🔭 I'm [W4nde3](https://github.com/W4nde3)
+
+
+### GitHub Stats
+
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=W4nde3&theme=onedark&no-frame=true&column=4" />
+
+<img align="left" src="https://github-readme-stats-mrdulin.vercel.app/api?username=W4nde3&show_icons=true&hide_border=true&hide=prs&theme=radical">
