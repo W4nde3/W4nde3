@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-
 - 🔭 I'm [W4nde3](https://github.com/W4nde3)
 
 
