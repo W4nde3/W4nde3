@@ -14,8 +14,6 @@
 </p>
 
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 - 🔭 I'm [W4nde3](https://github.com/W4nde3)
   
 - 🔭 I’m currently working on PentestBot
@@ -34,7 +32,7 @@
 <!-- <img align="left" src="https://github-readme-stats-mrdulin.vercel.app/api?username=W4nde3&show_icons=true&hide_border=true&hide=prs&theme=radical"> -->
 
 ### Working & Sleeping
-<br><br><br><br>
+<br>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
