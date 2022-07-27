@@ -32,13 +32,6 @@
 <!-- <img align="left" src="https://github-readme-stats-mrdulin.vercel.app/api?username=W4nde3&show_icons=true&hide_border=true&hide=prs&theme=radical"> -->
 
 ### Working & Sleeping
-<br>
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@W4nde3&compact=True"/>
-</a>
-
 
 
 
